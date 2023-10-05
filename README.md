@@ -54,17 +54,17 @@ Work Experience
 Volunteering
 ----------
 01.10.2023-now
-:    **volunteering firefighter at [Freiwillige Feuerwehr stellingen](https://ff-stellingen.de/)**
+:    **Volunteering Firefighter at [Freiwillige Feuerwehr stellingen](https://ff-stellingen.de/)**
 
 2018-2019
-:    **swimming instructor in different swimming lessons**
+:    **Swimming instructor in different swimming lessons**
 
 2018-2019
 :    **Technical support at the  [Lamstedt church community](https://www.kk-ch.de/gemeinden/lamstedt/)**
 
 2016-2019
-:    **swimming instructor at [TSV Lamstedt](https://www.tsv-lamstedt.de/)**
+:    **Swimming instructor at [TSV Lamstedt](https://www.tsv-lamstedt.de/)**
 
 2014-2020 
-:    **volunteer work int the Children and youth work of the
+:    **Volunteer work int the Children and youth work of the
 [Lamstedt church community](https://www.kk-ch.de/gemeinden/lamstedt/)**
