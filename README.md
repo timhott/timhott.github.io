@@ -4,8 +4,8 @@ Tim Hottenbacher
 -------------------
 Hamburg
 Germany
+
 tim.hottenbacher@draeger.com
--------------------
 
 Education
 ---------
@@ -33,7 +33,7 @@ Education
 :   **Awarded with the [Peter Rehder Preis](https://www.jobelmannschule.de/unsere-schule/schulleben/sia-sch%C3%BCler-ingenieur-akademie.html)**
 
 2016-2019
-:   **General University Entrance Qualificatione**; [Jobelmannschule Stade Berufsgymnasium Technik](https://www.jobelmannschule.de/Berufliches-Gymnasium-Technik-Informationstechnik.html)
+:   **General University Entrance Qualification**; [Jobelmannschule Stade Berufsgymnasium Technik](https://www.jobelmannschule.de/Berufliches-Gymnasium-Technik-Informationstechnik.html)
     *main focus Informatics
 
 Work Experience
@@ -50,3 +50,21 @@ Work Experience
 
 2015-2019
 :    **Bike Mechanic at [Zweiradshop Lamsted](https://www.zweiradshop-lamstedt.de/)**
+
+Volunteering
+----------
+01.10.2023-now
+:    **volunteering firefighter at [Freiwillige Feuerwehr stellingen](https://ff-stellingen.de/)**
+
+2018-2019
+:    **swimming instructor in different swimming lessons**
+
+2018-2019
+:    **Technical support at the  [Lamstedt church community](https://www.kk-ch.de/gemeinden/lamstedt/)**
+
+2016-2019
+:    **swimming instructor at [TSV Lamstedt](https://www.tsv-lamstedt.de/)**
+
+2014-2020 
+:    **volunteer work int the Children and youth work of the
+[Lamstedt church community](https://www.kk-ch.de/gemeinden/lamstedt/)**
